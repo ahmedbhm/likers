@@ -1,17 +1,17 @@
 ![likers logo](http://www.morahhib.com/img/likers-logo.jpg)
 # Likers (arabic version)
-*This script is in Arabic, and for now there is only the RTL version*
-Script for managing advertising campaigns for social networks. to see the content of this script watch this [video](https://www.youtube.com/watch?v=ZAOk2-0pDRs&index=3&list=PLQJjtF_jDk3vImSt72cwwh5uV0o7vyx2m).
+*This script is in Arabic, and for now there is only the RTL version.*  
+This script is for managing advertising campaigns for social networks. to see the content of this script watch this [video](https://www.youtube.com/watch?v=ZAOk2-0pDRs&index=3&list=PLQJjtF_jDk3vImSt72cwwh5uV0o7vyx2m).  
 سكريبت لإدارة الحملات الإعلانية للمواقع الإجتماعية 
 ### The technologies used:
-> PHP 5.6
-CakePHP 2.2.x
-Twitter bootstrap 2.3
-Paypal API
-Instagram API
+> PHP 5.6  
+CakePHP 2.2.x  
+Twitter bootstrap 2.3  
+Paypal API  
+Instagram API  
 ### The necessary modifications before host the code:
 * Import the database `db-likers.sql`. 
-* Configure your database file:
+* Configure your database file:  
 `app\Config\database.php` 
 ```php
 	public $default = array(
@@ -26,7 +26,7 @@ Instagram API
 	);
 ```
 * Configure the mail client settings:
-you can use your webmail as you can use GMAIL.
+you can use your webmail as you can use GMAIL.  
 ` app\Config\email.php`
 ```php
     public $gmail = array(
