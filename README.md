@@ -1,8 +1,8 @@
 ![likers logo](http://www.morahhib.com/img/likers-logo.jpg)
-# Likers (arabic version)
+# Likers (Social Media Marketing (SMM) - Reseller Panel)
 *This script is in Arabic, and for now there is only the RTL version.*  
-This script is for managing advertising campaigns for social networks. to see the content of this script watch this [video](https://www.youtube.com/watch?v=ZAOk2-0pDRs&index=3&list=PLQJjtF_jDk3vImSt72cwwh5uV0o7vyx2m).  
-سكريبت لإدارة الحملات الإعلانية للمواقع الإجتماعية 
+This is an open source reseller Panel for Social Media Marketing. to see the content of this script watch this [video](https://www.youtube.com/watch?v=ZAOk2-0pDRs&index=3&list=PLQJjtF_jDk3vImSt72cwwh5uV0o7vyx2m).  
+لوحة  التحكم لتسويق وسائل الإعلام الاجتماعية 
 ### The technologies used:
 > PHP 5.6  
 CakePHP 2.2.x  
