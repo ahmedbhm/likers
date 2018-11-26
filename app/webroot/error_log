@@ -1,0 +1,18 @@
+[30-Sep-2015 22:50:10 UTC] PHP Fatal error:  ReflectionMethod::isPublic() [<a href='http://php.net/reflectionmethod.ispublic'>reflectionmethod.ispublic</a>]: Internal error: Failed to retrieve the reflection object in /home/mehdigomehdi/public_html/lib/Cake/Controller/Controller.php on line 514
+[01-Oct-2015 09:24:56 UTC] PHP Fatal error:  [CakeException] Unknown status code
+#0 /home/mehdigomehdi/public_html/lib/Cake/Error/ExceptionRenderer.php(214): CakeResponse->statusCode(111)
+#1 [internal function]: ExceptionRenderer->error400(Object(SocketException))
+#2 /home/mehdigomehdi/public_html/lib/Cake/Error/ExceptionRenderer.php(176): call_user_func_array(Array, Array)
+#3 /home/mehdigomehdi/public_html/lib/Cake/Error/ErrorHandler.php(119): ExceptionRenderer->render()
+#4 [internal function]: ErrorHandler::handleException(Object(SocketException))
+#5 {main} in /home/mehdigomehdi/public_html/lib/Cake/Error/ErrorHandler.php on line 128
+[02-Oct-2015 15:35:41 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/mehdigomehdi/public_html/app/Controller/NotificationsController.php on line 4
+[02-Oct-2015 15:37:43 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/mehdigomehdi/public_html/app/Controller/NotificationsController.php on line 11
+[02-Oct-2015 15:38:44 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/mehdigomehdi/public_html/app/Controller/NotificationsController.php on line 146
+[02-Oct-2015 15:39:32 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/mehdigomehdi/public_html/app/Controller/NotificationsController.php on line 21
+[02-Oct-2015 15:39:34 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/mehdigomehdi/public_html/app/Controller/NotificationsController.php on line 21
+[02-Oct-2015 15:39:43 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/mehdigomehdi/public_html/app/Controller/NotificationsController.php on line 21
+[02-Oct-2015 16:02:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mehdigomehdi/public_html/app/Controller/NotificationsController.php on line 52
+[02-Oct-2015 16:02:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mehdigomehdi/public_html/app/Controller/NotificationsController.php on line 52
+[02-Oct-2015 16:24:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mehdigomehdi/public_html/app/Controller/NotificationsController.php on line 55
+[02-Oct-2015 16:25:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mehdigomehdi/public_html/app/Controller/NotificationsController.php on line 55
